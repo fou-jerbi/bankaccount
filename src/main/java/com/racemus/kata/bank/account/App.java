@@ -1,4 +1,4 @@
-package come.racemus.kata.bank.account;
+package com.racemus.kata.bank.account;
 
 public class App
 {
